@@ -1,15 +1,13 @@
-ECE281_CE2
+ECE281_CE2 - C3C Pluger; ECE281
 ==========
 
-# CE2 - C3C Pluger; ECE281
-
-##Structural Screenshot
+###Structural Screenshot
 
 
 
 
-##Behavioral Screenshot
+###Behavioral Screenshot
 
 
 
-##Analysis
+###Analysis
